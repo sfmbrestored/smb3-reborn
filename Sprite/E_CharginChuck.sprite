@@ -1,0 +1,315 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "0 4 24 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "13.0 26.0",
+			"Rect" : "25 1 51 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "13.0 27.0",
+			"Rect" : "52 0 78 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "79 4 103 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "104 4 128 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "129 4 153 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "154 4 178 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "179 4 203 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "14.0 27.0",
+			"Rect" : "204 0 232 27",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 15.0",
+			"Rect" : "0 39 24 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 18.0",
+			"Rect" : "25 36 49 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "50 32 74 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 26.0",
+			"Rect" : "75 28 99 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "100 32 124 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "125 32 149 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "100 32 124 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "125 32 149 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "50 32 74 54",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 23.0",
+			"Rect" : "0 57 30 80",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 23.0",
+			"Rect" : "31 57 53 80",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 21.0",
+			"Rect" : "54 59 84 80",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "16.0 25.0",
+			"Rect" : "85 55 117 80",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "118 64 134 80",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "0 83 24 106",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 25.0",
+			"Rect" : "25 81 49 106",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "50 90 66 106",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "67 90 83 106",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "0 111 24 134",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 19.0",
+			"Rect" : "25 115 49 134",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "14.0 27.0",
+			"Rect" : "50 107 78 134",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "0 140 24 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "25 140 49 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 28.0",
+			"Rect" : "50 135 72 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 23.0",
+			"Rect" : "73 140 97 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 28.0",
+			"Rect" : "98 135 118 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 22.0",
+			"Rect" : "119 141 143 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "4.0 8.0",
+			"Rect" : "144 155 152 163",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 19.0",
+			"Rect" : "0 174 24 193",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "14.0 27.0",
+			"Rect" : "25 166 53 193",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "16.0 29.0",
+			"Rect" : "54 164 86 193",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "27",
+			"Name" : "BouncinIdle"
+		},
+		{
+			"Frames" : "29",
+			"Name" : "BouncinJump"
+		},
+		{
+			"Frames" : "28",
+			"Name" : "BouncinJumpSetup"
+		},
+		{
+			"Frames" : "37",
+			"Name" : "ClappinIdle"
+		},
+		{
+			"Frames" : "38",
+			"Name" : "ClappinIdleJump"
+		},
+		{
+			"Frames" : "38",
+			"Name" : "ClappinJump"
+		},
+		{
+			"Frames" : "39",
+			"Name" : "ClappinJumpClap"
+		},
+		{
+			"Frames" : "30",
+			"Name" : "ConfusedIdle"
+		},
+		{
+			"Frames" : "31",
+			"Name" : "ConfusedIdleBall"
+		},
+		{
+			"Frames" : "32,33",
+			"Name" : "ConfusedThrow"
+		},
+		{
+			"Frames" : "34,35",
+			"Name" : "ConfusedThrowJump"
+		},
+		{
+			"Frames" : "20,21",
+			"Name" : "DigginDig"
+		},
+		{
+			"Frames" : "19",
+			"Name" : "DigginDigSetup"
+		},
+		{
+			"Frames" : "18",
+			"Name" : "DigginIdle"
+		},
+		{
+			"Frames" : "22",
+			"Name" : "DigginRock"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "8",
+			"Name" : "LookoutJump"
+		},
+		{
+			"Frames" : "1,2",
+			"Name" : "LookoutRun"
+		},
+		{
+			"Frames" : "3,4,5,6,7",
+			"Name" : "LookoutTurn"
+		},
+		{
+			"Frames" : "25,26",
+			"Name" : "PassinBall"
+		},
+		{
+			"Frames" : "23",
+			"Name" : "PassinIdle"
+		},
+		{
+			"Frames" : "24",
+			"Name" : "PassinKick"
+		},
+		{
+			"Frames" : "27",
+			"Name" : "SplittinIdle"
+		},
+		{
+			"Frames" : "29",
+			"Name" : "SplittinJump"
+		},
+		{
+			"Frames" : "28",
+			"Name" : "SplittinJumpSetup"
+		},
+		{
+			"Delay" : 6,
+			"Frames" : "9,10,11,12,13,14,15,16,17",
+			"Name" : "Stomped"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

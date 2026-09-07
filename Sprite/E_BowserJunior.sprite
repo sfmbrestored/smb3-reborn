@@ -1,0 +1,71 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "13 29",
+			"Rect" : "0 0 27 29"
+		},
+		{
+			"Offset" : "13 27",
+			"Rect" : "28 2 56 29"
+		},
+		{
+			"Offset" : "15 28",
+			"Rect" : "0 30 27 58"
+		},
+		{
+			"Offset" : "13 27",
+			"Rect" : "28 31 57 58"
+		},
+		{
+			"Offset" : "8 16",
+			"Rect" : "58 13 74 29"
+		},
+		{
+			"Offset" : "8 16",
+			"Rect" : "75 13 91 29"
+		},
+		{
+			"Offset" : "8 16",
+			"Rect" : "92 13 108 29"
+		},
+		{
+			"Offset" : "8 16",
+			"Rect" : "109 13 125 29"
+		},
+		{
+			"Offset" : "13 32",
+			"Rect" : "0 59 26 91"
+		},
+		{
+			"Offset" : "13 31",
+			"Rect" : "27 60 53 91"
+		},
+		{
+			"Offset" : "0 0",
+			"Rect" : "0 0 0 0"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Delay" : 50,
+			"Frames" : "2,3",
+			"Name" : "AimFire"
+		},
+		{
+			"Frames" : "8,9",
+			"Name" : "Die"
+		},
+		{
+			"Frames" : "0,1",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "4,5,6,7",
+			"Name" : "ShellSpin"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

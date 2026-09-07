@@ -1,0 +1,64 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "7 21",
+			"Rect" : "0 1 14 25"
+		},
+		{
+			"Offset" : "7 20",
+			"Rect" : "15 2 29 26"
+		},
+		{
+			"Offset" : "7 21",
+			"Rect" : "30 1 44 25"
+		},
+		{
+			"Offset" : "7 22",
+			"Rect" : "45 0 59 24"
+		},
+		{
+			"Offset" : "7 18",
+			"Rect" : "76 3 90 27"
+		},
+		{
+			"Offset" : "7 17",
+			"Rect" : "91 5 105 29"
+		},
+		{
+			"Offset" : "10 16",
+			"Rect" : "136 6 156 22"
+		},
+		{
+			"Offset" : "0 0",
+			"Rect" : "0 0 0 0"
+		},
+		{
+			"Offset" : "0 0",
+			"Rect" : "0 0 0 0"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "6",
+			"Name" : "Cloud"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Die"
+		},
+		{
+			"Delay" : 10,
+			"Frames" : "4,5",
+			"Name" : "Hide"
+		},
+		{
+			"Delay" : 10,
+			"Frames" : "0,1,2,3",
+			"Name" : "Idle"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

@@ -1,0 +1,38 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 0 16 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "17 0 33 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "34 0 50 16",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "51 0 67 16",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "1",
+			"Name" : "Die"
+		},
+		{
+			"Frames" : "0,1,2,3",
+			"Name" : "Idle"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

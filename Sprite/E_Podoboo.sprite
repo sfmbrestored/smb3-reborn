@@ -1,0 +1,61 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "7 16",
+			"Rect" : "1 1 15 17"
+		},
+		{
+			"Offset" : "7 16",
+			"Rect" : "16 1 30 17"
+		},
+		{
+			"Offset" : "8 16",
+			"Rect" : "31 1 47 17"
+		},
+		{
+			"Offset" : "15 17",
+			"Rect" : "48 0 78 17"
+		},
+		{
+			"Offset" : "15 17",
+			"Rect" : "79 0 109 17"
+		},
+		{
+			"Offset" : "15 17",
+			"Rect" : "110 0 140 17"
+		},
+		{
+			"Offset" : "15 16",
+			"Rect" : "141 1 171 17"
+		},
+		{
+			"Offset" : "15 16",
+			"Rect" : "172 1 202 17"
+		},
+		{
+			"Offset" : "15 16",
+			"Rect" : "203 1 233 17"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Delay" : 3,
+			"Frames" : "3,4,5",
+			"Name" : "Fly1"
+		},
+		{
+			"Delay" : 3,
+			"Frames" : "6,7,8",
+			"Name" : "Fly2"
+		},
+		{
+			"Delay" : 3,
+			"Frames" : "0,1,2",
+			"Name" : "Idle"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
