@@ -1,7 +1,7 @@
 # SMB3 theme replacement for SFMB DEMO 2.1
 
 Made by:
-- Nintendp, Keira S., Vini, Elpepe, NachoRED274
+- Nintendp, Keira S., Vini, Elpepe, NachoRED274.
 
 Credits: 
 - Closed beta SFMB contributors.
