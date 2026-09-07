@@ -1,0 +1,1526 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 11 16 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "17 11 33 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 9.0",
+			"Rect" : "34 18 50 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 17.0",
+			"Rect" : "51 9 67 26",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 19.0",
+			"Rect" : "68 8 84 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "85 1 101 27",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -14"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "102 0 118 27",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -14"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "119 11 135 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "136 11 152 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "153 11 169 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "170 11 186 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "187 11 203 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "204 11 220 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "221 1 237 27",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -14"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "238 0 254 27",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-2 -14"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "255 11 271 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "272 11 288 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "289 11 305 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "306 11 322 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "323 11 339 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "340 11 356 27",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 28 16 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "17 29 33 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "34 28 50 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "51 28 67 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "68 28 84 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "85 28 101 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "102 29 118 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "119 29 135 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "136 29 152 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "153 29 169 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "170 28 186 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "187 28 203 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "204 28 220 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "221 28 237 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "238 29 254 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "255 30 271 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "272 29 288 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "289 29 305 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "306 29 322 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "323 29 339 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "340 30 356 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "357 30 373 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "374 30 390 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "391 30 407 44",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 23.0",
+			"Rect" : "0 50 16 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "17 49 33 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 23.0",
+			"Rect" : "73 50 92 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 23.0",
+			"Rect" : "93 50 111 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "34 49 53 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 23.0",
+			"Rect" : "54 50 72 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "112 57 128 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "129 57 145 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "146 46 162 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 28.0",
+			"Rect" : "163 45 179 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 20.0",
+			"Rect" : "180 53 198 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 18.0",
+			"Rect" : "199 55 217 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "218 57 242 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 12.0",
+			"Rect" : "243 61 267 73",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 88 16 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "17 90 33 103",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "34 88 50 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "51 88 67 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "68 88 84 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "85 88 101 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "102 89 118 103",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "119 88 135 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "4.0 8.0",
+			"Rect" : "136 96 144 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "145 88 161 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "162 74 178 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 25.0",
+			"Rect" : "179 79 195 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 22.0",
+			"Rect" : "196 80 210 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 20.0",
+			"Rect" : "211 80 225 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 16.0",
+			"Rect" : "226 88 246 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 16.0",
+			"Rect" : "247 88 267 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 16.0",
+			"Rect" : "268 88 288 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 16.0",
+			"Rect" : "289 88 309 104",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 16.0",
+			"Rect" : "0 106 14 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 16.0",
+			"Rect" : "15 106 29 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 17.0",
+			"Rect" : "30 105 60 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 17.0",
+			"Rect" : "61 105 91 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 16.0",
+			"Rect" : "92 106 122 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 16.0",
+			"Rect" : "123 106 153 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 13.0",
+			"Rect" : "154 109 162 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 9.0",
+			"Rect" : "163 113 171 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "172 108 188 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 16.0",
+			"Rect" : "189 106 205 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 16.0",
+			"Rect" : "206 106 222 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 16.0",
+			"Rect" : "223 106 239 120",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 14.0",
+			"Rect" : "240 108 256 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 14.0",
+			"Rect" : "257 108 273 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 14.0",
+			"Rect" : "274 108 290 122",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "0 139 24 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "25 139 49 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "50 139 74 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "24.0 41.0",
+			"Rect" : "173 123 221 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "222 147 238 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "239 147 255 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "256 147 272 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "273 147 289 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "290 139 314 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "315 139 339 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "340 139 364 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "365 139 389 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 41.0",
+			"Rect" : "0 172 34 213",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 37.0",
+			"Rect" : "35 176 69 213",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 41.0",
+			"Rect" : "70 172 103 213",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 41.0",
+			"Rect" : "104 172 137 213",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "0 219 16 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "17 219 33 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "34 219 50 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "51 219 67 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 24.0",
+			"Rect" : "68 219 83 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 24.0",
+			"Rect" : "84 219 99 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 24.0",
+			"Rect" : "100 219 116 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "13.0 27.0",
+			"Rect" : "117 216 146 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 28.0",
+			"Rect" : "147 215 174 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "13.0 29.0",
+			"Rect" : "175 214 202 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "203 227 219 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "220 227 236 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "237 227 253 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "254 227 270 243",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 253 16 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "17 253 33 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 13.0",
+			"Rect" : "34 256 58 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 13.0",
+			"Rect" : "59 256 82 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 14.0",
+			"Rect" : "83 254 107 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "11.0 13.0",
+			"Rect" : "108 256 131 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "132 253 148 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "149 253 165 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "166 254 182 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 20.0",
+			"Rect" : "183 249 199 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 19.0",
+			"Rect" : "200 250 216 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 20.0",
+			"Rect" : "217 249 233 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 25.0",
+			"Rect" : "234 244 250 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 25.0",
+			"Rect" : "251 244 267 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "5.0 13.0",
+			"Rect" : "268 256 278 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 14.0",
+			"Rect" : "279 255 293 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "4.0 10.0",
+			"Rect" : "294 259 302 269",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "4.0 9.0",
+			"Rect" : "303 259 311 268",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 23.0",
+			"Rect" : "0 274 16 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "17 282 32 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 14.0",
+			"Rect" : "33 283 48 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "49 282 64 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "65 282 81 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 14.0",
+			"Rect" : "82 283 98 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "99 282 114 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 14.0",
+			"Rect" : "115 283 130 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "131 282 146 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "147 282 163 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 25.0",
+			"Rect" : "164 272 188 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 26.0",
+			"Rect" : "189 271 213 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "214 270 230 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 12.0",
+			"Rect" : "231 285 243 297",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 23.0",
+			"Rect" : "0 302 34 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "13.0 22.0",
+			"Rect" : "35 303 61 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 27.0",
+			"Rect" : "62 298 92 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 27.0",
+			"Rect" : "93 298 123 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 27.0",
+			"Rect" : "124 298 154 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 27.0",
+			"Rect" : "155 298 185 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 17.0",
+			"Rect" : "186 308 217 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 17.0",
+			"Rect" : "218 308 249 325",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 328 16 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "17 328 33 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "34 328 50 342",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "51 328 67 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "68 328 84 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "85 328 101 342",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "102 329 118 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "119 329 135 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "136 327 152 343",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 18.0",
+			"Rect" : "153 326 169 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 14.0",
+			"Rect" : "170 330 188 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 15.0",
+			"Rect" : "189 329 207 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 10.0",
+			"Rect" : "208 334 226 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 7.0",
+			"Rect" : "227 337 245 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 4.0",
+			"Rect" : "246 340 260 344",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "75 139 98 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "99 139 122 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "123 139 147 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "148 139 172 171",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "16.0 32.0",
+			"Rect" : "0 345 32 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 14.0",
+			"Rect" : "33 363 47 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "48 361 64 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "65 361 81 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "82 361 98 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "99 353 115 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "116 353 132 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "133 353 149 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "150 353 166 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "167 362 183 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "184 361 200 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "201 361 217 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "219 362 235 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "236 361 252 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "253 361 269 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 26.0",
+			"Rect" : "270 351 294 375",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "14.0 28.0",
+			"Rect" : "295 349 323 377",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "32.0 64.0",
+			"Rect" : "1 378 65 442",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 14.0",
+			"Rect" : "66 380 82 394",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "5.0 13.0",
+			"Rect" : "83 383 93 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 14.0",
+			"Rect" : "94 382 108 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "6.0 12.0",
+			"Rect" : "111 383 123 395",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "124 380 140 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "141 380 157 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 10.0",
+			"Rect" : "158 386 174 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "175 379 191 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 17.0",
+			"Rect" : "192 378 208 397",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "209 381 225 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "226 381 242 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "243 381 259 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 18.0",
+			"Rect" : "260 378 276 396",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 23.0",
+			"Rect" : "66 398 86 421",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 24.0",
+			"Rect" : "87 397 107 421",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "108 405 124 421",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "125 405 141 421",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "0 443 24 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "25 443 49 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "50 443 74 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "75 443 99 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "100 443 124 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "125 443 149 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "150 443 174 475",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "0 476 24 508",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "25 476 49 508",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "50 476 74 508",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "12.0 32.0",
+			"Rect" : "75 476 99 508",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 17.0",
+			"Rect" : "142 404 158 421",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "159 405 175 421",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 42.0",
+			"Rect" : "138 172 172 214",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "15.0 38.0",
+			"Rect" : "173 175 206 213",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 43.0",
+			"Rect" : "207 172 240 215",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 43.0",
+			"Rect" : "241 172 274 215",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "9.0 30.0",
+			"Rect" : "176 398 194 428",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-4 -8"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 29.0",
+			"Rect" : "195 399 213 428",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-4 -9"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 16.0",
+			"Rect" : "214 412 230 428",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 -3"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "9.0 15.0",
+			"Rect" : "231 413 247 428",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-6 -2"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "8.0 7.0",
+			"Rect" : "248 421 264 428",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Wing1",
+					"Position" : "-5 0"
+				}
+			],
+			"WingStyle" : 2
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "265 412 281 428",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "282 412 298 428",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 21.0",
+			"Rect" : "299 407 315 428",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 21.0",
+			"Rect" : "316 407 332 428",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 22.0",
+			"Rect" : "334 406 348 428",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 22.0",
+			"Rect" : "351 406 365 428",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : null,
+	"SubPositions" : "Wing1",
+	"Version" : "Neoarc's Sprite v2.0"
+}

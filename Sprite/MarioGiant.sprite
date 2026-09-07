@@ -1,0 +1,131 @@
+{
+	"Frames" : 
+	[
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "40.0 135.0",
+			"Rect" : "0 1 72 136"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "50.0 137.0",
+			"Rect" : "88 2 176 132"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "45.0 140.0",
+			"Rect" : "190 0 268 140"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "40.0 138.0",
+			"Rect" : "280 0 350 138"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "40.0 136.0",
+			"Rect" : "372 0 440 138"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "43.0 137.0",
+			"Rect" : "451 0 527 128"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "43.0 140.0",
+			"Rect" : "536 0 611 141"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "40.0 140.0",
+			"Rect" : "622 0 690 140"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "45.0 136.0",
+			"Rect" : "704 0 783 136"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "50.0 137.0",
+			"Rect" : "6 148 98 278"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "45.0 136.0",
+			"Rect" : "210 146 288 282"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "42.0 102.0",
+			"Rect" : "298 176 376 278"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "40.0 132.0",
+			"Rect" : "384 146 456 278"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "11",
+			"Name" : "Crouch"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "9",
+			"Name" : "Jump"
+		},
+		{
+			"Frames" : "1",
+			"Name" : "JumpDown"
+		},
+		{
+			"Frames" : "12",
+			"Name" : "LookUp"
+		},
+		{
+			"Delay" : 1,
+			"Frames" : "1,2,3,4,5,6,7,8",
+			"Name" : "Run"
+		},
+		{
+			"Delay" : 1,
+			"Frames" : "1,2,3,4,5,6,7,8",
+			"Name" : "RunMax"
+		},
+		{
+			"Frames" : "10",
+			"Name" : "Skid"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "ToGiant"
+		},
+		{
+			"Delay" : 1,
+			"Frames" : "1,2,3,4,5,6,7,8",
+			"Name" : "Walk"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
