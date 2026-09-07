@@ -1,0 +1,64 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "17.0 42.0",
+			"Rect" : "0 2 34 44",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 44.0",
+			"Rect" : "35 0 69 44",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 42.0",
+			"Rect" : "0 46 34 88",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 43.0",
+			"Rect" : "35 45 68 88",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 43.0",
+			"Rect" : "69 45 102 88",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 42.0",
+			"Rect" : "103 46 137 88",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 45.0",
+			"Rect" : "0 91 33 136",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "17.0 43.0",
+			"Rect" : "34 93 67 136",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Delay" : 20,
+			"Frames" : "2,3,4,5",
+			"Name" : "AimFire"
+		},
+		{
+			"Frames" : "6,7",
+			"Name" : "Die"
+		},
+		{
+			"Delay" : 8,
+			"Frames" : "0,1",
+			"Name" : "Idle"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

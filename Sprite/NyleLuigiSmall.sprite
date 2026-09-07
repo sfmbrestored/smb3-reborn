@@ -1,0 +1,386 @@
+{
+	"Frames" : 
+	[
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5 18",
+			"Rect" : "0 1 11 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5 18",
+			"Rect" : "12 1 23 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 17",
+			"Rect" : "24 2 36 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 18",
+			"Rect" : "37 1 52 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 17",
+			"Rect" : "53 2 68 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 17",
+			"Rect" : "69 2 84 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 17",
+			"Rect" : "85 2 100 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 12",
+			"Rect" : "101 7 115 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "116 3 130 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 16",
+			"Rect" : "131 3 144 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5 18",
+			"Rect" : "145 1 156 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 19",
+			"Rect" : "157 0 169 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5 16",
+			"Rect" : "170 3 181 19"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "0 20 15 36"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "16 20 31 36"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "32 20 46 36"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "47 20 61 36"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "62 20 76 36"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 16",
+			"Rect" : "77 20 91 36"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 18",
+			"Rect" : "0 38 14 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 17",
+			"Rect" : "15 39 29 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7 18",
+			"Rect" : "30 38 44 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 18",
+			"Rect" : "45 38 57 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 18",
+			"Rect" : "58 38 70 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 17",
+			"Rect" : "71 39 83 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 18",
+			"Rect" : "84 38 97 56"
+		},
+		{
+			"FaceAngle" : -45,
+			"FaceDirection" : 0,
+			"Offset" : "6 20",
+			"Rect" : "98 36 110 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 14",
+			"Rect" : "111 42 124 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6 18",
+			"Rect" : "125 38 137 56"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "5 16",
+			"Rect" : "0 61 11 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "4 17",
+			"Rect" : "12 60 21 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "4 17",
+			"Rect" : "22 60 31 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 3,
+			"Offset" : "4 18",
+			"Rect" : "32 59 41 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5 18",
+			"Rect" : "42 59 53 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "4 18",
+			"Rect" : "54 59 63 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 2,
+			"Offset" : "5 18",
+			"Rect" : "64 59 75 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 2,
+			"Offset" : "7 20",
+			"Rect" : "76 57 90 77"
+		},
+		{
+			"FaceAngle" : -45,
+			"FaceDirection" : 0,
+			"Offset" : "5 20",
+			"Rect" : "91 57 101 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "5 8",
+			"Rect" : "102 69 113 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : -1,
+			"Offset" : "7 16",
+			"Rect" : "114 61 128 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : -1,
+			"Offset" : "7 16",
+			"Rect" : "129 61 143 77"
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : -1,
+			"Offset" : "7 16",
+			"Rect" : "144 61 158 77"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "32,33,34,35",
+			"Name" : "AirSpin"
+		},
+		{
+			"Frames" : "27",
+			"Name" : "CarryCrouch"
+		},
+		{
+			"Frames" : "22",
+			"Name" : "CarryIdle"
+		},
+		{
+			"Frames" : "25",
+			"Name" : "CarryJump"
+		},
+		{
+			"Frames" : "26",
+			"Name" : "CarryLookUp"
+		},
+		{
+			"Frames" : "23,24,25",
+			"Name" : "CarryRun"
+		},
+		{
+			"Frames" : "13,14",
+			"Name" : "CarrySwim"
+		},
+		{
+			"Frames" : "8,9",
+			"Name" : "Climb"
+		},
+		{
+			"Frames" : "30,31",
+			"Name" : "ClimbBack"
+		},
+		{
+			"Frames" : "29",
+			"Name" : "ClimbBackIdle"
+		},
+		{
+			"Frames" : "9",
+			"Name" : "ClimbIdle"
+		},
+		{
+			"Frames" : "7",
+			"Name" : "Crouch"
+		},
+		{
+			"Frames" : "40,41",
+			"Name" : "Die"
+		},
+		{
+			"Frames" : "39",
+			"Name" : "DieFreeze"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "GroundPound"
+		},
+		{
+			"Frames" : "38",
+			"Name" : "Head"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "5",
+			"Name" : "Jump"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "JumpDown"
+		},
+		{
+			"Frames" : "28",
+			"Name" : "Kick"
+		},
+		{
+			"Frames" : "37",
+			"Name" : "LookUp"
+		},
+		{
+			"Frames" : "10",
+			"Name" : "Ride"
+		},
+		{
+			"Frames" : "11,12",
+			"Name" : "RideCommand"
+		},
+		{
+			"Frames" : "1,2,3",
+			"Name" : "Run"
+		},
+		{
+			"Frames" : "19,20,21",
+			"Name" : "RunMax"
+		},
+		{
+			"Frames" : "4",
+			"Name" : "Skid"
+		},
+		{
+			"Frames" : "32,33,34,35",
+			"Name" : "SpinJump"
+		},
+		{
+			"Frames" : "13,14,15,16,17,18",
+			"Name" : "Swim"
+		},
+		{
+			"Frames" : "13,14",
+			"Name" : "SwimIdle"
+		},
+		{
+			"Frames" : "1,2,3",
+			"Name" : "Walk"
+		},
+		{
+			"Frames" : "36",
+			"Name" : "WallSlide"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}

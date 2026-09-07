@@ -1,0 +1,546 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "9 25 23 40"
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "49 25 63 40"
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "89 25 103 40"
+		},
+		{
+			"Offset" : "7.0 15.0",
+			"Rect" : "129 25 143 40"
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "168 24 184 40"
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "208 25 224 40"
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "248 24 264 40"
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "288 24 304 40"
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "328 25 344 40"
+		},
+		{
+			"Offset" : "7.5 16.0",
+			"Rect" : "368 24 383 40"
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "408 24 424 40"
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "448 25 464 40"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 54 32 80"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "48 53 72 80"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 50 112 80"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 52 152 79"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 51 192 80"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 50 232 80"
+		},
+		{
+			"Offset" : "8.0 20.0",
+			"Rect" : "248 60 279 80"
+		},
+		{
+			"Offset" : "8.0 20.0",
+			"Rect" : "288 60 319 80"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 50 352 77"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "368 52 392 79"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "408 54 432 80"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 92 152 119"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 91 192 120"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 90 232 120"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 90 312 117"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 92 352 119"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 134 32 160"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "48 134 72 160"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 130 112 160"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 132 152 159"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 131 192 160"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 130 232 160"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 130 312 157"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 132 352 159"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "368 134 392 160"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 174 32 200"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "48 174 72 200"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 170 112 200"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 172 152 199"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 171 192 200"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 170 232 200"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 170 312 197"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 172 352 199"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "368 174 392 200"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 214 32 240"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "48 214 72 240"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 210 112 240"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 212 152 239"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 211 192 240"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 210 232 240"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 210 312 237"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 212 352 239"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "368 214 392 240"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 254 32 280"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "48 254 72 280"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 250 112 280"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 252 152 279"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 251 192 280"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 250 232 280"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 250 312 277"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 252 352 279"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "368 254 392 280"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 294 32 320"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "48 294 72 320"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 290 112 320"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 292 152 319"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 291 192 320"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 290 232 320"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 290 312 317"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 292 352 319"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "368 294 392 320"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "8 334 32 360"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "48 334 72 360"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "88 330 112 360"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "128 332 152 359"
+		},
+		{
+			"Offset" : "8.0 29.0",
+			"Rect" : "168 331 192 360"
+		},
+		{
+			"Offset" : "8.0 30.0",
+			"Rect" : "208 330 232 360"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "288 330 312 357"
+		},
+		{
+			"Offset" : "8.0 27.0",
+			"Rect" : "328 332 352 359"
+		},
+		{
+			"Offset" : "8.0 26.0",
+			"Rect" : "368 334 392 360"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "18",
+			"Name" : "Attack"
+		},
+		{
+			"Frames" : "6,7,8",
+			"Name" : "BabyCarried"
+		},
+		{
+			"Frames" : "4,5",
+			"Name" : "BabyIdle"
+		},
+		{
+			"Frames" : "9,10,11",
+			"Name" : "BabySwallow"
+		},
+		{
+			"Frames" : "22",
+			"Name" : "Crouch"
+		},
+		{
+			"Frames" : "36",
+			"Name" : "CrouchSwallow1"
+		},
+		{
+			"Frames" : "45",
+			"Name" : "CrouchSwallow2"
+		},
+		{
+			"Frames" : "54",
+			"Name" : "CrouchSwallow3"
+		},
+		{
+			"Frames" : "63",
+			"Name" : "CrouchSwallow4"
+		},
+		{
+			"Frames" : "72",
+			"Name" : "CrouchSwallow5"
+		},
+		{
+			"Frames" : "81",
+			"Name" : "CrouchSwallow6"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Egg"
+		},
+		{
+			"Frames" : "21",
+			"Name" : "Fall"
+		},
+		{
+			"Frames" : "27",
+			"Name" : "FallPanic"
+		},
+		{
+			"Frames" : "35",
+			"Name" : "FallSwallow1"
+		},
+		{
+			"Frames" : "44",
+			"Name" : "FallSwallow2"
+		},
+		{
+			"Frames" : "53",
+			"Name" : "FallSwallow3"
+		},
+		{
+			"Frames" : "62",
+			"Name" : "FallSwallow4"
+		},
+		{
+			"Frames" : "71",
+			"Name" : "FallSwallow5"
+		},
+		{
+			"Frames" : "80",
+			"Name" : "FallSwallow6"
+		},
+		{
+			"Frames" : "1,2,3",
+			"Name" : "Hatch"
+		},
+		{
+			"Frames" : "14",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "30",
+			"Name" : "IdleSwallow1"
+		},
+		{
+			"Frames" : "39",
+			"Name" : "IdleSwallow2"
+		},
+		{
+			"Frames" : "48",
+			"Name" : "IdleSwallow3"
+		},
+		{
+			"Frames" : "57",
+			"Name" : "IdleSwallow4"
+		},
+		{
+			"Frames" : "66",
+			"Name" : "IdleSwallow5"
+		},
+		{
+			"Frames" : "75",
+			"Name" : "IdleSwallow6"
+		},
+		{
+			"Frames" : "12,13",
+			"Name" : "IdleWait"
+		},
+		{
+			"Frames" : "28,29",
+			"Name" : "IdleWaitSwallow1"
+		},
+		{
+			"Frames" : "37,38",
+			"Name" : "IdleWaitSwallow2"
+		},
+		{
+			"Frames" : "46,47",
+			"Name" : "IdleWaitSwallow3"
+		},
+		{
+			"Frames" : "55,56",
+			"Name" : "IdleWaitSwallow4"
+		},
+		{
+			"Frames" : "64,65",
+			"Name" : "IdleWaitSwallow5"
+		},
+		{
+			"Frames" : "73,74",
+			"Name" : "IdleWaitSwallow6"
+		},
+		{
+			"Frames" : "20",
+			"Name" : "Jump"
+		},
+		{
+			"Frames" : "26",
+			"Name" : "JumpPanic"
+		},
+		{
+			"Frames" : "34",
+			"Name" : "JumpSwallow1"
+		},
+		{
+			"Frames" : "43",
+			"Name" : "JumpSwallow2"
+		},
+		{
+			"Frames" : "52",
+			"Name" : "JumpSwallow3"
+		},
+		{
+			"Frames" : "61",
+			"Name" : "JumpSwallow4"
+		},
+		{
+			"Frames" : "70",
+			"Name" : "JumpSwallow5"
+		},
+		{
+			"Frames" : "79",
+			"Name" : "JumpSwallow6"
+		},
+		{
+			"Frames" : "19",
+			"Name" : "Spit"
+		},
+		{
+			"Frames" : "15,16,17",
+			"Name" : "Walk"
+		},
+		{
+			"Frames" : "23,24,25",
+			"Name" : "WalkPanic"
+		},
+		{
+			"Frames" : "31,32,33",
+			"Name" : "WalkSwallow1"
+		},
+		{
+			"Frames" : "40,41,42",
+			"Name" : "WalkSwallow2"
+		},
+		{
+			"Frames" : "49,50,51",
+			"Name" : "WalkSwallow3"
+		},
+		{
+			"Frames" : "58,59,60",
+			"Name" : "WalkSwallow4"
+		},
+		{
+			"Frames" : "67,68,69",
+			"Name" : "WalkSwallow5"
+		},
+		{
+			"Frames" : "76,77,78",
+			"Name" : "WalkSwallow6"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
