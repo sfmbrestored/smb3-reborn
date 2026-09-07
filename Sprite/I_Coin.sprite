@@ -1,0 +1,30 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "7.0 16.0",
+			"Rect" : "0 0 14 16"
+		},
+		{
+			"Offset" : "5.0 16.0",
+			"Rect" : "15 0 25 16"
+		},
+		{
+			"Offset" : "3.0 16.0",
+			"Rect" : "26 0 32 16"
+		},
+		{
+			"Offset" : "5.0 16.0",
+			"Rect" : "33 0 43 16"
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "0,1,2,3",
+			"Name" : "Idle"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
